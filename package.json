@@ -1,0 +1,31 @@
+{
+  "name": "mean-stack",
+  "version": "1.0.0",
+  "description": "MEAN Stack Auhtentication App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "server": ""
+  },
+  "dependencies": {
+    "express":"*",
+    "mongoose":"*",
+    "bcryptjs":"*",
+    "cors":"*",
+    "jsonwebtoken":"*",
+    "body-parser":"*",
+    "passport":"*",
+    "passport-jwt":"*"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuwan94/mean-stack.git"
+  },
+  "author": "Nuwan94",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuwan94/mean-stack/issues"
+  },
+  "homepage": "https://github.com/nuwan94/mean-stack#readme"
+}
